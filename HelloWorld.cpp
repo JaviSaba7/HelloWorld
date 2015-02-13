@@ -7,8 +7,8 @@ int main(int argc, char** argv)
 }
 /*
 
-
+char=1byte=8bits=256 --> {-128,128}
 Cadena: munt de memoria que acaba en 0
-//Me llaman el conductor
+
 
 */
